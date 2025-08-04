@@ -1,1 +1,3 @@
 <!-- NAVBAR -->
+<!-- MAIN -->
+<!-- FOOTER -->
